@@ -1,0 +1,259 @@
+RESULTS:
+
+Hardware:
+Processor: Intel Core i3-4005U @ 1.70GHz (4 Cores),
+Motherboard: HP 220D v86.40, 
+Chipset: Intel Haswell-ULT DRAM, Memory: 8192MB, Disk: 750GB HGST HTS541075A9, 
+Graphics: Intel Haswell-ULT IGP (950MHz), Audio: Intel Haswell HDMI, 
+Network: Realtek RTL8101/2/6E + Ralink RT3290 Wireless 802.11n 1T/1R
+
+
+Software:
+OS: Ubuntu 14.04, Kernel: 3.13.0-77-generic (x86_64), 
+Desktop: Unity 7.2.6, Display Server: X Server 1.15.1, 
+Display Driver: intel 2.99.910, OpenGL: 3.3 Mesa 10.1.3, 
+Compiler: GCC 4.8, File-System: ext4, Screen Resolution: 1366x768
+
+
+
+
+Gzip Compression:
+    
+Test Results:
+        
+25.191290855408
+        
+25.249264001846
+        
+25.192122936249
+    
+Average: 25.21 Second
+
+s
+
+
+dcraw:
+    
+Test Results:
+        
+113.8416390419
+        
+112.93855595589
+        
+112.96436095238
+    
+Average: 113.25 Seconds
+
+
+
+FLAC Audio Encoding 1.3.1:
+    
+Test Results:
+        
+16.344877004623
+        
+16.472450971603
+        
+16.370677947998
+        
+16.274128913879
+        
+16.303357839584
+    
+Average: 16.35 Seconds
+
+
+
+GnuPG 1.4.10:
+    
+Test Results:
+        
+16.965545892715
+        
+17.452768087387
+        
+17.317244052887
+        
+16.936360120773
+    
+Average: 17.17 Seconds
+
+
+
+Redis 3.0.1:
+    
+Test 1 of 5
+        
+    
+Test Results:
+        
+1027749.25
+        
+927643.81
+        
+825082.5
+        
+1009081.75
+        
+929368.06
+        
+1102535.88
+    
+Average: 970243.54 
+
+
+
+Redis 3.0.1:
+    
+Test 2 of 5
+
+    
+Test Results:
+        
+760456.25
+        
+802568.19
+        
+848176.44
+        
+737463.12
+        
+792393.06
+        
+795544.94
+    
+Average: 789433.67 
+
+
+
+Redis 3.0.1:
+    
+Test 3 of 5
+
+    
+Test Results:
+        
+687757.94
+        
+748503
+        
+772200.81
+        
+741289.88
+        
+705716.25
+        
+660501.94
+    
+Average: 719328.30 
+
+
+
+
+Redis 3.0.1:
+    
+Test 4 of 5
+
+    
+Test Results:
+        
+891265.62
+        
+889679.75
+        
+789889.38
+        
+888099.44
+        
+815660.69
+        
+769230.81
+    
+Average: 840637.62 
+
+
+
+Redis 3.0.1:
+    
+Test 5 of 5
+
+    
+Test Results:
+        
+626566.44
+        
+692520.75
+        
+706214.69
+        
+718907.25
+        
+734214.38
+        
+708215.31
+    
+Average: 697773.14 
+
+
+
+Timed MAFFT Alignment 6.864:
+    
+Test Results:
+        
+23.312973022461
+        
+21.533366918564
+        
+21.248291015625
+        
+19.777528047562
+        
+22.425952911377
+        
+19.702724218369
+    
+Average: 21.33 Seconds
+
+
+
+
+
+Mrbayes
+    
+Average: 52.16 
+
+Seconds
+
+
+
+Timed MPlayer Compilation 1.0-rc3:
+    
+Test Results:
+        
+221.44279789925
+        
+208.65426087379
+        
+192.72547197342
+        
+191.77887010574
+        
+189.16546106339
+        
+191.99221587181
+    
+Average: 199.29 Seconds
+
+
+
+Timed PHP Compilation 5.2.9:
+    
+Test Results:
+        
+124.46397995949
+        
+122.904047966
+        
+122.9899020195
+    
+Average: 123.45 Seconds
